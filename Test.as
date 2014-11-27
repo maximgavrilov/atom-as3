@@ -1,5 +1,7 @@
 // Atom.as
 // https://github.com/maximgavrilov/atom-as3
+// Author: Maxim Gavrilov (maxim.gavrilov@gmail.com)
+// License: BSD
 //
 // inspired by
 // https://github.com/zynga/atom
